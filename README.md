@@ -10,7 +10,7 @@
 
    ## How to Reach Me
 
-   - ([your LinkedIn URL](https://de.linkedin.com/in/nawwar-diab))
+   - ([Nawwar Diab](https://de.linkedin.com/in/nawwar-diab))
 
 
    ## Fun Fact
