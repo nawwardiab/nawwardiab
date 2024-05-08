@@ -10,8 +10,7 @@
 
    ## How to Reach Me
 
-[Nawwar Diab](https://de.linkedin.com/in/nawwar-diab)
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Nawwar Diab](https://de.linkedin.com/in/nawwar-diab)
 
    ## Fun Fact
 
