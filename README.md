@@ -1,4 +1,4 @@
-# Hello, I'm Nawwar !
+# Hello, I'm Nawwar!
 
    ## About Me
 
