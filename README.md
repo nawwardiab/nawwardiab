@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm Nawwar !
 
-<!--
-**nawwardiab/nawwardiab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ## About Me
 
-Here are some ideas to get you started:
+  I'm a translator and fiction writer with a passion for beauty and aesthetics. Currently, I'm learning to code and working on my first short story collection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ## Projects
+
+  No coding projects yet, only writing projects so far
+
+   ## How to Reach Me
+
+   - ([your LinkedIn URL](https://de.linkedin.com/in/nawwar-diab))
+
+
+   ## Fun Fact
+
+   If Dolphines had thumbs, they probably would have been able to establish a civilization under water similar to the human's on land
