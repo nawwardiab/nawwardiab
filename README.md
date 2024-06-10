@@ -2,7 +2,7 @@
 
    ## About Me
 
-  I'm a translator and fiction writer with a passion for beauty and aesthetics. Currently, I'm learning to code and also working on my first short story collection.
+  I'm a translator and fiction writer with a passion for beauty and aesthetics. Currently learning Full-Stack development and also working on my first short story collection.
 
    ## Projects
 
