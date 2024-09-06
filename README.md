@@ -6,7 +6,7 @@
 
    ## Projects
 
-  No coding projects yet, but very soon. Stay tuned!
+  check out my repos!!
 
    ## How to Reach Me
 
