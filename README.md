@@ -1,8 +1,6 @@
 # 💫 About Me
 
-🚀 **Current role:** Full‑Stack Developer Intern @ **spaceSHIFT A. A. GmbH** – diving deep into **Go** services, **PostgreSQL** data modelling, and GitLab CI/CD pipelines while contributing to a brand‑new platform.
-
-🛠️ **Side projects:** Team lead on **Track\$**, a MERN‑stack expense tracker, and a handful of React/Next.js prototypes focused on UX and accessibility.
+🚀 **Current role:** Full‑Stack Developer Intern @ **spaceSHIFT A. A. GmbH** – diving deep into **Go** services, **PostgreSQL** data modelling, React/TypeScript for Front-End and GitLab CI/CD pipelines while contributing to a brand‑new platform.
 
 🤝 **I love collaborating on**
 
