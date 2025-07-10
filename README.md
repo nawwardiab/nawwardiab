@@ -1,6 +1,8 @@
 # 💫 About Me
 
-🚀 **Current role:** Full‑Stack Developer Intern @ **spaceSHIFT A. A. GmbH** – diving deep into **Go** services, **PostgreSQL** data modelling, React/TypeScript for Front-End and GitLab CI/CD pipelines while contributing to a brand‑new platform.
+🚀 **Current role:** Full‑Stack Developer Intern @ **spaceSHIFT A. A. GmbH** – diving deep into **Go** services, **PostgreSQL** data modelling, **React/TypeScript** for Front-End and **GitLab CI/CD pipelines** while contributing to a brand‑new platform.
+
+💻 **Side-Project:** Currently learning LPIC 101, then 102.
 
 🤝 **I love collaborating on**
 
