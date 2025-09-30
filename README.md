@@ -58,7 +58,6 @@ Expense management platform with group splitting (team project).
 ## 🤝 Contact
 
 - [LinkedIn](https://linkedin.com/in/nawwar-diab)  
-- 📧 Email: **nawar.d92@gmail.com**
 
 Currently seeking **junior backend or full-stack roles** where I can:  
 - Build and maintain APIs and backend systems  
