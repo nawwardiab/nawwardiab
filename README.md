@@ -13,7 +13,7 @@ Based in Berlin, open to remote opportunities.
 - Containerized applications with Docker and deployed via GitLab CI/CD
 - Implemented clean architecture patterns with proper separation of concerns
 
-**Web Development Tutor & Peer Mentor** | 7 months  
+**Web Development Tutor & Peer Mentor** | DCI Digital Career Institute GmbH | 7 months  
 Mentored 10+ students in JavaScript, React, and web development fundamentals through code reviews and pair programming sessions.
 
 ---
