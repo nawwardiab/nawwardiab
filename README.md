@@ -5,6 +5,19 @@ Based in Berlin, open to remote opportunities.
 
 ---
 
+## Experience
+
+**Full-Stack Developer Intern** | spaceSHIFT A. A. GmbH | 3 months  
+- Built authentication and address management APIs with Go and PostgreSQL
+- Developed React/TypeScript frontends for API testing and validation
+- Containerized applications with Docker and deployed via GitLab CI/CD
+- Implemented clean architecture patterns with proper separation of concerns
+
+**Web Development Tutor & Peer Mentor** | 7 months  
+Mentored 10+ students in JavaScript, React, and web development fundamentals through code reviews and pair programming sessions.
+
+---
+
 ## Tech Stack
 
 **Backend:** Go • PostgreSQL • Node.js • Express  
