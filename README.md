@@ -1,7 +1,7 @@
 # Nawwar Diab
 
 Full-stack Engineer building RESTful APIs with Go and modern React frontends.  
-Based in Berlin, open to remote opportunities.
+Based in Berlin, open to on-site and remote opportunities.
 
 ---
 
