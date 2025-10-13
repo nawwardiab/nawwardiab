@@ -8,7 +8,7 @@ Based in Berlin, open to on-site and remote opportunities.
 ## Experience
 
 **Full-Stack Developer Intern** | spaceSHIFT A. A. GmbH | 3 months  
-- Built authentication and address management APIs with Go and PostgreSQL
+- Built authentication, address, products, orders and cart management APIs with Go and PostgreSQL
 - Developed React/TypeScript frontends for API testing and validation
 - Containerized applications with Docker
 - Implemented clean architecture patterns with proper separation of concerns
