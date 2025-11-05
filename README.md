@@ -22,7 +22,7 @@ Mentored 10+ students in JavaScript, React, and web development fundamentals thr
 
 **Backend:** Go • PostgreSQL • Node.js • Express  
 **Frontend:** React • JavaScript/TypeScript • TailwindCSS  
-**DevOps:** Docker • Linux • GitLab CI/CD
+**DevOps:** Docker • Linux
 
 ---
 
