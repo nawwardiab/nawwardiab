@@ -28,17 +28,18 @@ Mentored 10+ students in JavaScript, React, and web development fundamentals thr
 
 ## Projects
 
-### Auth Service – Full-Stack Authentication Platform
-[Backend](https://github.com/nawwardiab/auth-service-backend-go) | [Frontend](https://github.com/nawwardiab/auth-frontend-react-ts)
+### Auth Service – Production Authentication API
+🌐 **[Live Demo](https://auth-frontend-react-ts.vercel.app)** | [Backend API](https://auth-service-backend-go-production.up.railway.app) | [Code: Backend](https://github.com/nawwardiab/auth-service-backend-go) • [Frontend](https://github.com/nawwardiab/auth-frontend-react-ts)
 
-Authentication system with secure JWT cookies and CSRF protection.
+Full-stack authentication platform deployed on Railway and Vercel.
+- JWT authentication with HTTP-only cookies and CSRF protection
+- RESTful API with clean 4-layer architecture (Go + Echo + PostgreSQL)
+- Address management CRUD operations
+- React TypeScript frontend with Axios interceptors
+- Docker containerized with multi-stage builds (5MB final image)
+- **Deployed December 2025** – Production-ready with cross-site security
 
-- RESTful API with clean layered architecture  
-- PostgreSQL database with versioned migrations  
-- React TypeScript frontend with modern UI components  
-- Containerized deployment with Docker
-
-**Stack:** Go, Echo, PostgreSQL, React, TypeScript, Docker
+**Stack:** Go, Echo, PostgreSQL, React, TypeScript, Docker, Railway, Vercel
 
 ### MERN Expense Tracker
 [Repository](https://github.com/nawwardiab/mern-expense-tracker)
