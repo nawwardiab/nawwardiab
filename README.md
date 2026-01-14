@@ -8,6 +8,7 @@ Based in Berlin, open to on-site and remote opportunities.
 ## Currently
 **Side Project:** Levantine Arabic learning platform (mobile-first PWA)  
 Building audio-synced lyric translation system with spaced repetition
+
 **Learning:** DSA • Kubernetes fundamentals • System design patterns
 
 ---
