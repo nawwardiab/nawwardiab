@@ -63,13 +63,6 @@ Expense management platform with group splitting features (4-person team).
 
 ---
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nawwardiab&show_icons=true&theme=dark)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nawwardiab&layout=compact&theme=dark)
-
----
-
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/nawwar-diab)
